@@ -35,3 +35,18 @@ Para alimentar o caderno no NotebookLM, foram selecionadas **31 fontes abertas**
 3. ⚛️ **Hawking Radiation (JILA / Wikipedia):** Artigos sobre os efeitos quânticos e o processo de evaporação teórica dos buracos negros proposto por Stephen Hawking.
 4. 📐 **Karl Schwarzschild – Wikipédia:** Registro histórico e matemático do cálculo da solução exata das equações de Einstein que deu origem ao conceito do Raio de Schwarzschild.
 5. 🌠 **Direct Collapse Black Hole – Wikipedia:** Artigos sobre as teorias de formação de buracos negros supermassivos no universo primordial.
+
+## 🧪 Engenharia de Prompts e "Cicatrizes" (Troubleshooting)
+
+Nesta seção estão documentados os testes de prompts aplicados no NotebookLM, os resultados obtidos e os ajustes necessários durante o processo de extração do conhecimento.
+
+### 1. Testes de Prompts e Resultados
+* **Prompt Inicial (Genérico):** *"Me fale sobre buracos negros."*
+  * **Resultado:** A IA gerou um texto longo e superficial com conceitos muito básicos.
+* **Prompt Refinado (Estratégico):** *"Faça uma breve descrição sobre os buracos negros abordando sua definição, anatomia (horizonte de eventos, singularidade, disco de acreção), categorias por massa e as principais descobertas recentes (imagens diretas e radiação de Hawking)."*
+  * **Resultado:** Resposta estruturada, citando diretamente os trechos das fontes importadas e cobrindo exatamente os pontos-chave de interesse.
+
+### 2. "Cicatrizes" e Lições Aprendidas (Troubleshooting)
+* **Desafio:** Evitar que a IA misturasse conceitos puramente teóricos (como buracos negros primordiais) com fatos comprovados observacionalmente (como o Sagitário A*).
+* **Solução:** Adicionar restrições explícitas no prompt pedindo para diferenciar claramente **teoria/hipótese** de **observações empíricas/comprovadas**.
+* **Alinhamento de Fontes:** Fontes em inglês e português geraram termos duplicados no glossário. Foi necessário solicitar à IA que mantivesse a terminologia padronizada em português.
