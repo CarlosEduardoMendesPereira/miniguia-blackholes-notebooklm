@@ -78,3 +78,25 @@ Nesta seção estão documentados os testes de prompts aplicados no NotebookLM, 
 | **Disco de Acreção** | Disco formado por matéria orbitando e caindo em direção ao buraco negro, emitindo radiação devido ao atrito extremo. |
 | **Radiação de Hawking** | Radiação térmica emitida na borda do horizonte de eventos devido a efeitos quânticos, causando perda de massa gradual. |
 | **Lente Gravitacional** | Distorção da luz de objetos distantes provocada pelo campo gravitacional extremo de um buraco negro. |
+
+### 🔄 Prompts Reutilizáveis para Revisões Futuras
+
+Sinta-se à vontade para reutilizar esses prompts no seu assistente de IA preferido:
+
+1. **Para Explicar um Conceito Complexo:**
+   > *"Explique o conceito de Radiação de Hawking de forma simples usando uma analogia do cotidiano, destacando por que isso leva à evaporação de um buraco negro."*
+
+2. **Para Comparação Didática:**
+   > *"Crie uma tabela comparativa entre Buracos Negros Estelares e Supermassivos considerando: forma de origem, massa típica, localização no universo e evidências observacionais."*
+
+3. **Para Teste de Conhecimento:**
+   > *"Com base nos conceitos de Horizonte de Eventos e Lente Gravitacional, elabore 3 perguntas de múltipla escolha com gabarito comentado para eu testar meus conhecimentos."*
+
+## 🛠️ Artefatos Gerados no NotebookLM
+
+Além do texto, o caderno de estudos gerou os seguintes recursos interativos:
+* 🎙️ **Resumo em Áudio ("Biografia do Buraco Negro"):** Podcast conversacional gerado por IA analisando as 31 fontes.
+* 🗺️ **Mapa Mental Interativo:** Estrutura visual conectando a vida e morte das estrelas até a formação dos objetos compactos.
+* 📊 **Guia de Estudos Completo (*Study Guide*):** Roteiro estruturado de perguntas e respostas para revisão rápida.
+
+*Projeto desenvolvido por **Carlos Eduardo Mendes Pereira** para o desafio de IAs da DIO.*
