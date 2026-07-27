@@ -25,3 +25,13 @@ O estudo de **Buracos Negros** é um dos campos mais fascinantes e complexos da 
 * **Consolidar um Miniguia de Estudos:** Centralizar informações complexas de dezenas de fontes em um material didático e acessível.
 * **Explorar o NotebookLM:** Avaliar o uso da IA generativa baseada em fontes confiáveis para síntese de conhecimento, geração de resumos em áudio, apresentações e mapas mentais.
 * **Praticar Engenharia de Prompts:** Testar perguntas estratégicas para extrair respostas precisas, documentando o processo e os desafios de refinar os resultados.
+
+## 📚 Curadoria de Fontes
+
+Para alimentar o caderno no NotebookLM, foram selecionadas **31 fontes abertas** sobre o tema. Abaixo destacam-se 5 das principais fontes utilizadas:
+
+1. 🌌 **NASA Science – Black Holes:** Visão geral da agência espacial sobre a anatomia e classificação dos buracos negros.
+2. 🏆 **Nobel Prize in Physics (2020):** Documentação oficial da premiação concedida às descobertas sobre a formação de buracos negros e o objeto compacto supermassivo no centro da nossa galáxia.
+3. ⚛️ **Hawking Radiation (JILA / Wikipedia):** Artigos sobre os efeitos quânticos e o processo de evaporação teórica dos buracos negros proposto por Stephen Hawking.
+4. 📐 **Karl Schwarzschild – Wikipédia:** Registro histórico e matemático do cálculo da solução exata das equações de Einstein que deu origem ao conceito do Raio de Schwarzschild.
+5. 🌠 **Direct Collapse Black Hole – Wikipedia:** Artigos sobre as teorias de formação de buracos negros supermassivos no universo primordial.
