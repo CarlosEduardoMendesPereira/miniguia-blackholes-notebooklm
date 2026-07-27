@@ -16,3 +16,12 @@ O projeto compila 31 fontes de artigos científicos, enciclopédias e notícias 
 - **Resumo em Áudio** (*Biografia do Buraco Negro*)
 - **Apresentação e Anatomia dos Buracos Negros**
 - **Mapa Mental Interativo**
+
+# 🎯 Contexto e Objetivos
+
+O estudo de **Buracos Negros** é um dos campos mais fascinantes e complexos da astrofísica moderna, envolvendo conceitos de Relatividade Geral, Mecânica Quântica e evolução estelar. 
+
+### Objetivos do Projeto:
+* **Consolidar um Miniguia de Estudos:** Centralizar informações complexas de dezenas de fontes em um material didático e acessível.
+* **Explorar o NotebookLM:** Avaliar o uso da IA generativa baseada em fontes confiáveis para síntese de conhecimento, geração de resumos em áudio, apresentações e mapas mentais.
+* **Praticar Engenharia de Prompts:** Testar perguntas estratégicas para extrair respostas precisas, documentando o processo e os desafios de refinar os resultados.
