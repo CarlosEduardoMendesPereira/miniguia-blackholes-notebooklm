@@ -50,3 +50,31 @@ Nesta seção estão documentados os testes de prompts aplicados no NotebookLM, 
 * **Desafio:** Evitar que a IA misturasse conceitos puramente teóricos (como buracos negros primordiais) com fatos comprovados observacionalmente (como o Sagitário A*).
 * **Solução:** Adicionar restrições explícitas no prompt pedindo para diferenciar claramente **teoria/hipótese** de **observações empíricas/comprovadas**.
 * **Alinhamento de Fontes:** Fontes em inglês e português geraram termos duplicados no glossário. Foi necessário solicitar à IA que mantivesse a terminologia padronizada em português.
+
+## 📖 Miniguia de Estudo (Entrega Final)
+
+### 📝 Resumo Estruturado do Assunto
+
+* **O que são:** Regiões do espaço-tempo com curvatura extrema onde a gravidade é tão intensa que nada, nem mesmo a luz, consegue escapar.
+* **Anatomia Básica:**
+  * **Singularidade:** O ponto central de densidade e gravidade infinitas.
+  * **Horizonte de Eventos:** A fronteira do "ponto de não retorno".
+  * **Disco de Acreção:** Estrutura de gás e poeira superaquecidos brilhando ao redor do buraco negro.
+* **Tipos de Buracos Negros:**
+  * **Estelares:** Formados pelo colapso gravitacional de estrelas massivas ao fim de suas vidas.
+  * **Supermassivos:** Habitam o centro das grandes galáxias (com milhões ou bilhões de massas solares).
+  * **Primordiais:** Hipotéticos buracos negros formados logo após o Big Bang.
+* **Marcos Observacionais:**
+  * **2019:** Primeira foto da sombra de um buraco negro (galáxia M87*).
+  * **2022:** Imagem do Sagitário A* (no centro da Via Láctea).
+* **Evaporação:** Teoria de Stephen Hawking sobre a **Radiação de Hawking**, demonstrando que buracos negros perdem massa e podem evaporar ao longo de trilhões de anos.
+
+### 📖 Glossário de Conceitos Chave
+
+| Conceito | Descrição |
+
+| **Horizonte de Eventos** | Limite físico/conceitual a partir do qual a velocidade de escape é maior que a velocidade da luz. |
+| **Singularidade** | Ponto de volume infinitamente pequeno e denso onde as leis conhecidas da física tradicional deixam de funcionar. |
+| **Disco de Acreção** | Disco formado por matéria orbitando e caindo em direção ao buraco negro, emitindo radiação devido ao atrito extremo. |
+| **Radiação de Hawking** | Radiação térmica emitida na borda do horizonte de eventos devido a efeitos quânticos, causando perda de massa gradual. |
+| **Lente Gravitacional** | Distorção da luz de objetos distantes provocada pelo campo gravitacional extremo de um buraco negro. |
